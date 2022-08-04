@@ -1,5 +1,5 @@
 # **HTML Session Notes**
-This document is for **STEAM4Girls IV**, has notes for `HTML` session of the web devlopment module 
+This document is for **STEAM4Girls IV**, has notes for **`HTML`** session of the web devlopment module 
 
 
 ## **The Server - Client Architecture (Model)**
